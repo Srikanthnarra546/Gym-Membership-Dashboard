@@ -1,0 +1,4 @@
+*.pbix.autosave
+*.tmp
+Thumbs.db
+Desktop.ini
