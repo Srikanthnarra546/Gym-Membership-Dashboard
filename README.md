@@ -8,7 +8,6 @@ This dashboard helps gym owners and managers monitor member engagement, identify
 
 # 📊 Dashboard Preview
 
-> Replace the image path after uploading your screenshot.
 
 ![Gym Dashboard](images/dashboard.png)
 
